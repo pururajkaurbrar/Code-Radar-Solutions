@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    float pi;
-    printf("You entered: %f", pi);
+    float num;
+    printf("You entered: %f", num);
     return 0;
 }
