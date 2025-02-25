@@ -4,5 +4,5 @@ int main()
     char str [100];
     printf("%s", str);
     scanf("%s", &str);
-    erturn 0;
+    return 0;
 }
