@@ -2,7 +2,7 @@
 int main()
 {
     char str [100];
-    printf("%s", str);
+    printf("%s" + "and" + "%s", str);
     scanf("%s", &str);
     return 0;
 }
